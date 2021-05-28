@@ -541,7 +541,7 @@ const SurahDetails = props => {
         <BottomSheet
           isVisible={visibleError}
           containerStyle={{backgroundColor: 'rgba(0.5, 0.25, 0, 0.2)'}}>
-          {props.sura_no &&
+          {props.sura_no &&  list[props.sura_no + '_' + props.ayah_no + '_00'] &&
             list[props.sura_no + '_' + props.ayah_no + '_00'].map((l, i) => (
               <ListItem
                 key={i}
