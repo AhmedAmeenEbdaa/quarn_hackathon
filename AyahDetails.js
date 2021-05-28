@@ -322,7 +322,7 @@ const DATA = [
     sura_name_ar: 'النَّاس',
     page: '604',
     line: '13',
-    aya_no: '4',
+    aya_no: '04',
     aya_text: '‏‏ ‏‏ ‏‏‏‏‏‏‏ ‏‏‏‏‏ ‏',
     aya_text_emlaey: 'من شر الوسواس الخناس',
   },
