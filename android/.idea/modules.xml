@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QuranHackathon.iml" filepath="$PROJECT_DIR$/.idea/modules/QuranHackathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QuranHackathon.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QuranHackathon.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/902051203/QuranHackathon.react-native-navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/902051203/QuranHackathon.react-native-navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/907930792/QuranHackathon.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/907930792/QuranHackathon.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1905350711/QuranHackathon.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1905350711/QuranHackathon.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

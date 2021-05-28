@@ -1,0 +1,9 @@
+com/quranhackathon/BuildConfig.java
+ com.quranhackathon.BuildConfig
+com/quranhackathon/MainActivity.java
+ com.quranhackathon.MainActivity
+com/quranhackathon/MainApplication.java
+ com.quranhackathon.MainApplication
+ com.quranhackathon.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

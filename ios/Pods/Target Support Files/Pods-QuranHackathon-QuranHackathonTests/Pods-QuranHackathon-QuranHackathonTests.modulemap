@@ -1,0 +1,6 @@
+module Pods_QuranHackathon_QuranHackathonTests {
+  umbrella header "Pods-QuranHackathon-QuranHackathonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
