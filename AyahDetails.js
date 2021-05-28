@@ -478,6 +478,7 @@ const SurahDetails = props => {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
   };
   const getSurahAya = (sura_no, ayah_no) => {
+    
     return DATA.filter(
       item => item.sura_no === sura_no && item.aya_no === ayah_no,
     )[0].aya_text;
@@ -561,6 +562,7 @@ const SurahDetails = props => {
           isVisible={visibleCorrect}
           containerStyle={{backgroundColor: 'rgba(0.5, 0.25, 0, 0.2)'}}>
           {props.sura_no &&
+            list[props.sura_no + '_' + props.ayah_no + '_01'] &&
             list[props.sura_no + '_' + props.ayah_no + '_01'].map((l, i) => (
               <ListItem
                 key={i}

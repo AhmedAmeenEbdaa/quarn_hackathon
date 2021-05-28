@@ -21,11 +21,11 @@ import {Navigation} from 'react-native-navigation';
 import {Platform} from 'react-native';
 const SURAH_NAMES = [
   {
-    sura_no: '1',
+    sura_no: '01',
     sura_name_ar: 'الفاتحة',
   },
   {
-    sura_no: '1',
+    sura_no: '01',
     sura_name_ar: 'الفاتحه',
   },
   {
